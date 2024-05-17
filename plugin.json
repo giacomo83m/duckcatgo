@@ -1,10 +1,10 @@
 {
     "name": "DuckCatGo",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "DuckCatGo enables cheshirecat to find answers using duckduckgo search engine",
     "author_name": "Giacomo Milani",
     "author_url": "https://github.com/giacomo83m/",
     "plugin_url": "https://github.com/giacomo83m/duckcatgo",
-    "tags": "search",
+    "tags": "search, settings",
     "thumb": "https://raw.githubusercontent.com/giacomo83m/duckcatgo/main/img/thumb.png"
 }
